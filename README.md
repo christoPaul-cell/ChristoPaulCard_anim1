@@ -1,7 +1,7 @@
 ## Lab 4
 
 
-<img src="Gif.gif" width=200><br>
+<img src="Gif (2).gif.gif" width=200><br>
 
 
 ## Required
