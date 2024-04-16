@@ -1,7 +1,7 @@
 ## Lab 4
 
 
-<img src="Gif (2).gif.gif" width=200><br>
+<img src="https://github.com/christoPaul-cell/ChristoPaulCard_anim1/blob/master/Gif%20(2).gif" width=200><br>
 
 
 ## Required
